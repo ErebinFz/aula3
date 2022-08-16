@@ -1,0 +1,13 @@
+body{
+  background: #BBBBBB
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+
+}
+#banner{
+	text-align: center;
+	width: 30%
+}
